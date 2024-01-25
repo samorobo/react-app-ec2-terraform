@@ -1,3 +1,4 @@
 Initial project setup
  Changed to my preferred region
 written out the script
+Fixed some error in the script
